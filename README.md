@@ -23,9 +23,13 @@ It allows for client account management, secure transactions, and user role hand
 
 
 ├── Bank.cpp # Main entry point
+
 ├── *.h # Class headers (clsUser, clsClient, etc.)
+
 ├── *.txt # Flat file databases (Clients.txt, Users.txt...)
+
 ├── Bank.sln / .vcxproj # Visual Studio solution/project files
+
 └── .gitignore # Ignores temp/build files like .vs/, x64/, etc.
 
 
