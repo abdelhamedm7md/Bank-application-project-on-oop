@@ -1,0 +1,62 @@
+﻿  Bank.cpp
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsString.h(37,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsString.h(54,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsString.h(191,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsString.h(322,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsString.h(370,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsInputValidate.h(124,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsInputValidate.h(128,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsBankClient.h(422,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsAddNewClientScreen.h(26,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsUpdateClientScreen.h(41,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsCurrency.h(30,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsUpdateCurrencyRateScreen.h(26,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\C++\11 - OOP as it Should Be (Applications)\Bank\clsCurrencyCalculatorScreen.h(16,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+  Bank.vcxproj -> D:\C++\11 - OOP as it Should Be (Applications)\Bank\x64\Debug\Bank.exe
