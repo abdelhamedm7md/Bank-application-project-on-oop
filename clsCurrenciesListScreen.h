@@ -10,19 +10,20 @@ class clsCurrenciesListScreen : protected clsScreen
 private:
     static void PrintCurrencyRecordLine(clsCurrency Currency)
     {
-        cout << "\nCurrency Card:\n";
-        cout << "_____________________________\n";
-        cout << "\nCountry    : " << Currency.Country();
-        cout << "\nCode       : " << Currency.CurrencyCode();
-        cout << "\nName       : " << Currency.CurrencyName();
-        cout << "\nRate(1$) = : " << Currency.Rate();
-
-        cout << "\n_____________________________\n";
+        cout << setw(8) << left << "" << "| " << left << setw(30) << Currency.Country();
+        cout << "| " << left << setw(8) << Currency.CurrencyCode();
+        cout << "| " << left << setw(45) << Currency.CurrencyName();
+        cout << "| " << left << setw(10) << Currency.Rate();
+        cout << setw(8) << left << "" << "\n\t_______________________________________________________";
+        cout << "_______________________________________________\n"
+            << endl;
+     
     }
 
 public:
     static void ShowCurrenciesListScreen()
     {
+        system("cls");
         vector<clsCurrency> vCurrencies = clsCurrency::GetCurrenciesList();
         string Title = "\t  Currencies List Screen";
         string SubTitle = "\t    (" + to_string(vCurrencies.size()) + ") Currency.";

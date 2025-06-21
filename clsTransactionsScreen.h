@@ -112,7 +112,7 @@ private:
 
         case enTransactionsMenueOptions::eShowMainMenue:
         {
-            //do nothing here the main screen will handle it :-) ;
+            break;
         }
         }
 
